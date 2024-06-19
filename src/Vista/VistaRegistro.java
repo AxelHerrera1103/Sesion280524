@@ -190,5 +190,6 @@ public class VistaRegistro extends javax.swing.JFrame {
     public void setControlador(ControladorUsuario controlador){
         btnAgregarUsuario.addActionListener(controlador);
         btnRegresarLogin.addActionListener(controlador);
+    
     }
 }
